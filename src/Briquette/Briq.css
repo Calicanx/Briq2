@@ -1,0 +1,1189 @@
+body{
+  margin: 0;
+}
+.briquettes,
+.briquettes * {
+  box-sizing: border-box;
+}
+.briquettes {
+  background: #000000;
+  padding: 23px 0px 23px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+.frame-55 {
+  padding: 0px 0px 0px 45px;
+  display: flex;
+  flex-direction: row;
+  gap: 347px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1280px;
+  position: relative;
+}
+.briquette {
+  color: #ffffff;
+  text-align: center;
+  font: 500 36px "Inter", sans-serif;
+  position: relative;
+}
+.frame-56 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1280px;
+  position: relative;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  height: 326px;
+  position: relative;
+}
+.cheap-sustainable-energy-saving-briquettes {
+  color: #ffffff;
+  text-align: center;
+  font: 700 48px "Inter", sans-serif;
+  position: relative;
+  width: 577px;
+  height: 170px;
+}
+.frame-40 {
+  background: #ffffff;
+  border-radius: 5px;
+  padding: 12px 0px 12px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 274px;
+  height: 76px;
+  position: relative;
+  overflow: hidden;
+}
+.buy-now {
+  color: #000000;
+  text-align: center;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+.rectangle-39 {
+  flex-shrink: 0;
+  width: 50%;
+  height: 518px;
+  position: relative;
+}
+.services {
+  color: #ffffff;
+  text-align: center;
+  font: 500 64px "Inter", sans-serif;
+  position: relative;
+}
+.frame-19 {
+  padding: 0px 0px 0px 50px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  height: 321px;
+  position: relative;
+  top:0;
+}
+.frame-16 {
+  padding: 0px 0px 0px 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 571px;
+  position: relative;
+}
+.feature {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-40 {
+  flex-shrink: 0;
+  width: 85px;
+  height: 85px;
+  position: relative;
+}
+._100-bio {
+  color: #ffffff;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  flex: 1;
+}
+.rectangle-41 {
+  flex-shrink: 0;
+  width: 85px;
+  height: 85px;
+  position: relative;
+}
+.high-carbon-content {
+  color: #ffffff;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  flex: 1;
+}
+.feature2 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(-0.523deg) scale(1, 1);
+}
+.rectangle-412 {
+  flex-shrink: 0;
+  width: 85px;
+  height: 85px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0.523deg) scale(1, 1);
+}
+.no-trees-are-cut-down-for-this-project {
+  color: #ffffff;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  flex: 1;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-18 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 611px;
+  position: relative;
+}
+.less-formation-of-ash {
+  color: #ffffff;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  flex: 1;
+}
+.pure-waste-product-made-from-coconut-shells {
+  color: #ffffff;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  flex: 1;
+}
+._150-c-200-c-more-heat-development-than-conventional-wood-charcoal {
+  color: #ffffff;
+  text-align: left;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  flex: 1;
+}
+.our-products {
+  color: #ffffff;
+  text-align: center;
+  font: 500 64px "Inter", sans-serif;
+  position: relative;
+}
+.main-content {
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1280px;
+  height: 646px;
+  position: relative;
+}
+.main-content-recurse-split {
+  display: flex;
+  flex-direction: row;
+  gap: 122px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.main-content-split {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 300px;
+  position: relative;
+}
+.frame-43 {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 0px 0px 0px 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 300px;
+  height: 300px;
+  position: relative;
+}
+.rectangle-413 {
+  flex-shrink: 0;
+  width: 157px;
+  height: 144px;
+  position: relative;
+}
+.frame-42 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 197px;
+  height: 71px;
+  position: relative;
+}
+.c-25-cube {
+  color: #000000;
+  text-align: left;
+  font: 600 28px "Inter", sans-serif;
+  position: relative;
+}
+._25-25-25-mm {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+}
+.c-26-cube {
+  color: #000000;
+  text-align: left;
+  font: 600 28px "Inter", sans-serif;
+  position: relative;
+}
+._26-26-26-mm {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+}
+.main-content-split2 {
+  flex-shrink: 0;
+  width: 300px;
+  height: 300px;
+  position: static;
+}
+.frame-432 {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 0px 0px 0px 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-40-30 {
+  color: #000000;
+  text-align: left;
+  font: 600 28px "Inter", sans-serif;
+  position: relative;
+}
+._40-30-25-mm {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+}
+.hexagon-45-100 {
+  color: #000000;
+  text-align: left;
+  font: 600 28px "Inter", sans-serif;
+  position: relative;
+}
+._45-100-mm {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: relative;
+}
+.please-contact-us-for-any-other-shape-request {
+  color: #ffffff;
+  text-align: left;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+.testimony {
+  color: #ffffff;
+  text-align: center;
+  font: 500 64px "Inter", sans-serif;
+  position: relative;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1280px;
+  height: 595px;
+  position: relative;
+}
+.frame-45 {
+  padding: 0px 0px 0px 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 728px;
+  height: 244px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.ellipse-22 {
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 216px;
+  height: 212px;
+  position: relative;
+}
+.frame-44 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 236px;
+  position: relative;
+}
+.mary-kwamboka {
+  color: #ffffff;
+  text-align: left;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+.they-burn-hotter-and-cleaner-are-cheaper-to-buy-and-much-easier-to-store-and-handle-great-product-find {
+  color: #ffffff;
+  text-align: left;
+  position: relative;
+  width: 395px;
+  height: 121px;
+}
+.they-burn-hotter-and-cleaner-are-cheaper-to-buy-and-much-easier-to-store-and-handle-great-product-find-span {
+  color: #ffffff;
+  font: 500 32px "Inter", sans-serif;
+}
+.they-burn-hotter-and-cleaner-are-cheaper-to-buy-and-much-easier-to-store-and-handle-great-product-find-span2 {
+  color: #ffffff;
+  font: 500 24px "Inter", sans-serif;
+}
+.they-burn-hotter-and-cleaner-are-cheaper-to-buy-and-much-easier-to-store-and-handle-great-product-find-span3 {
+  color: #ffffff;
+  font: 500 32px "Inter", sans-serif;
+}
+.frame-46 {
+  background: #ffffff;
+  padding: 0px 0px 0px 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 728px;
+  height: 335px;
+  position: relative;
+}
+.frame-442 {
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 291px;
+  position: relative;
+}
+.peter-waweru {
+  color: #000000;
+  text-align: left;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+.this-company-produces-briquettes-made-of-100-waste-sawdust-with-no-added-or-artificia-chemicals-an-excellent-and-efficient-alternative-source-of-heat-sets-a-great-example-of-sustainability-in-kenya {
+  color: #000000;
+  text-align: left;
+  position: relative;
+  width: 395px;
+  height: 194px;
+}
+.this-company-produces-briquettes-made-of-100-waste-sawdust-with-no-added-or-artificia-chemicals-an-excellent-and-efficient-alternative-source-of-heat-sets-a-great-example-of-sustainability-in-kenya-span {
+  color: #000000;
+  font: 500 32px "Inter", sans-serif;
+}
+.this-company-produces-briquettes-made-of-100-waste-sawdust-with-no-added-or-artificia-chemicals-an-excellent-and-efficient-alternative-source-of-heat-sets-a-great-example-of-sustainability-in-kenya-span2 {
+  color: #000000;
+  font: 500 24px "Inter", sans-serif;
+}
+.this-company-produces-briquettes-made-of-100-waste-sawdust-with-no-added-or-artificia-chemicals-an-excellent-and-efficient-alternative-source-of-heat-sets-a-great-example-of-sustainability-in-kenya-span3 {
+  color: #000000;
+  font: 500 32px "Inter", sans-serif;
+}
+.get-in-touch {
+  color: #ffffff;
+  text-align: center;
+  font: 500 64px "Inter", sans-serif;
+  position: relative;
+}
+.frame-52 {
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1280px;
+  position: relative;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 343px;
+  height: 271px;
+  position: relative;
+}
+.frame-48 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 81px;
+  position: relative;
+}
+.address {
+  color: #ffffff;
+  text-align: center;
+  font: 700 28px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.lower-bedi-rd-nakuru-kenya {
+  color: #ffffff;
+  text-align: center;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.frame-49 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 81px;
+  position: relative;
+}
+.telephone {
+  color: #ffffff;
+  text-align: center;
+  font: 700 28px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+._0796305577 {
+  color: #ffffff;
+  text-align: center;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.frame-50 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 81px;
+  position: relative;
+}
+.email {
+  color: #ffffff;
+  text-align: center;
+  font: 700 28px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.info-briquette-com {
+  color: #ffffff;
+  text-align: center;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+._2023-briquette-all-rights-reserved {
+  color: #ffffff;
+  text-align: center;
+  font: 500 24px "Inter", sans-serif;
+  position: relative;
+}
+.frame-39 {
+  padding: 0px 25px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 687px;
+  position: absolute;
+  left: 593px;
+  top: 23px;
+}
+.shop {
+  color: #ffffff;
+  text-align: center;
+  font: 500 28px "Inter", sans-serif;
+  position: relative;
+}
+@media (min-width:0px) and (max-width:640px){
+    .briquettes,
+    .briquettes * {
+      box-sizing: border-box;
+    }
+    .briquettes {
+      background: #000000;
+      width: 100%;
+      height: 3562px;
+      position: relative;
+      overflow: hidden;
+    }
+    .frame-55 {
+      padding: 0px 0px 0px 45px;
+      display: flex;
+      flex-direction: row;
+      gap: 347px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      width: 319px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+    .briquette {
+      color: #ffffff;
+      text-align: center;
+      font: 500 36px "Inter", sans-serif;
+      position: relative;
+      top: 10px;
+    }
+    .frame-39 {
+      padding: 0px 25px 0px 25px;
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: space-between;
+      width: 100%;
+      position: absolute;
+      left: 0px;
+      top: 69px;
+    }
+    .shop {
+      color: #ffffff;
+      text-align: center;
+      font: 500 20px "Inter", sans-serif;
+      position: relative;
+    }
+    .frame-53 {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      width: 320px;
+      height: 377px;
+      position: absolute;
+      left: 0px;
+      top: 118px;
+    }
+    .rectangle-39 {
+      flex-shrink: 0;
+      width: 100%;
+      height: 377px;
+      position: absolute;
+      top:40%;
+      filter: blur(1px);
+    }
+    .frame-41 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+      width: 100%;
+      height: 250px;
+      position: relative;
+      left: 0px;
+      top: 60%;
+      z-index: 1;
+    }
+    .cheap-sustainable-energy-saving-briquettes {
+      color: #ffffff;
+      text-align: center;
+      font: 700 32px "Inter", sans-serif;
+      position: relative;
+      width: 283px;
+      height: 193px;
+    }
+    .frame-40 {
+      background: #ffffff;
+      border-radius: 5px;
+      padding: 12px 0px 12px 0px;
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      width: 212px;
+      height: 48px;
+      position: relative;
+      overflow: hidden;
+    }
+    .buy-now {
+      color: #000000;
+      text-align: center;
+      font: 500 20px "Inter", sans-serif;
+      position: relative;
+    }
+    .services {
+      color: #ffffff;
+      text-align: center;
+      font: 500 34px "Inter", sans-serif;
+      position: absolute;
+      left: 87px;
+      top: 520px;
+    }
+    .frame-19 {
+      padding: 0px 25px 0px 25px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      width: 1005;
+      height: 673px;
+      position: absolute;
+      left: 0px;
+      top: 586px;
+    }
+    .frame-16 {
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      flex-shrink: 0;
+      width: 100%;
+      position: relative;
+    }
+    .feature {
+      display: flex;
+      flex-direction: row;
+      gap: 15px;
+      align-items: center;
+      justify-content: flex-start;
+      align-self: stretch;
+      flex-shrink: 0;
+      position: relative;
+    }
+    .rectangle-40 {
+      flex-shrink: 0;
+      width: 85px;
+      height: 85px;
+      position: relative;
+    }
+    ._100-bio {
+      color: #ffffff;
+      text-align: left;
+      font: 500 20px "Inter", sans-serif;
+      position: relative;
+      flex: 1;
+    }
+    .rectangle-41 {
+      flex-shrink: 0;
+      width: 85px;
+      height: 85px;
+      position: relative;
+    }
+    .high-carbon-content {
+      color: #ffffff;
+      text-align: left;
+      font: 500 20px "Inter", sans-serif;
+      position: relative;
+      flex: 1;
+    }
+    .feature2 {
+      display: flex;
+      flex-direction: row;
+      gap: 15px;
+      align-items: center;
+      justify-content: flex-start;
+      align-self: stretch;
+      flex-shrink: 0;
+      position: relative;
+    }
+    .rectangle-412 {
+      flex-shrink: 0;
+      width: 85px;
+      height: 85px;
+      position: relative;
+      transform-origin: 0 0;
+      transform: rotate(0.523deg) scale(1, 1);
+    }
+    .no-trees-are-cut-down-for-this-project {
+      color: #ffffff;
+      text-align: left;
+      font: 500 20px "Inter", sans-serif;
+      position: relative;
+      flex: 1;
+      transform-origin: 0 0;
+      transform: rotate(0deg) scale(1, 1);
+    }
+    .frame-18 {
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      flex-shrink: 0;
+      width: 100%;
+      position: relative;
+    }
+    .less-formation-of-ash {
+      color: #ffffff;
+      text-align: left;
+      font: 500 20px "Inter", sans-serif;
+      position: relative;
+      flex: 1;
+    }
+    .pure-waste-product-made-from-coconut-shells {
+      color: #ffffff;
+      text-align: left;
+      font: 500 20px "Inter", sans-serif;
+      position: relative;
+      flex: 1;
+    }
+    ._150-c-200-c-more-heat-development-than-conventional-wood-charcoal {
+      color: #ffffff;
+      text-align: left;
+      font: 500 20px "Inter", sans-serif;
+      position: relative;
+      flex: 1;
+    }
+    .our-products {
+      color: #ffffff;
+      text-align: center;
+      font: 500 34px "Inter", sans-serif;
+      position: absolute;
+      top: 1284px;
+    }
+    .main-content {
+      display: flex;
+      flex-direction: column;
+      gap: 25px;
+      align-items: center;
+      justify-content: flex-start;
+      position: absolute;
+      left: 10px;
+      top: 1350px;
+      width: 100%;
+    }
+    .main-content-recurse-split {
+      display: flex;
+      flex-direction: column;
+      gap: 25px;
+      align-items: flex-start;
+      justify-content: center;
+      flex-shrink: 0;
+      position: relative;
+    }
+    .main-content-split {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+      width: 300px;
+      position: relative;
+    }
+    .frame-43 {
+      background: rgba(255, 255, 255, 0.9);
+      padding: 0px 0px 0px 25px;
+      display: flex;
+      flex-direction: column;
+      gap: 29px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      flex-shrink: 0;
+      width: 300px;
+      height: 300px;
+      position: relative;
+    }
+    .rectangle-413 {
+      flex-shrink: 0;
+      width: 157px;
+      height: 144px;
+      position: relative;
+    }
+    .frame-42 {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: space-between;
+      flex-shrink: 0;
+      width: 197px;
+      height: 71px;
+      position: relative;
+    }
+    .c-25-cube {
+      color: #000000;
+      text-align: left;
+      font: 600 28px "Inter", sans-serif;
+      position: relative;
+    }
+    ._25-25-25-mm {
+      color: #000000;
+      text-align: left;
+      font: 400 24px "Inter", sans-serif;
+      position: relative;
+    }
+    .c-26-cube {
+      color: #000000;
+      text-align: left;
+      font: 600 28px "Inter", sans-serif;
+      position: relative;
+    }
+    ._26-26-26-mm {
+      color: #000000;
+      text-align: left;
+      font: 400 24px "Inter", sans-serif;
+      position: relative;
+    }
+    .main-content-split2 {
+      flex-shrink: 0;
+      width: 300px;
+      height: 300px;
+      position: static;
+    }
+    .frame-432 {
+      background: rgba(255, 255, 255, 0.9);
+      padding: 0px 0px 0px 25px;
+      display: flex;
+      flex-direction: column;
+      gap: 29px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      width: 300px;
+      height: 300px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+    .rectangle-40-30 {
+      color: #000000;
+      text-align: left;
+      font: 600 28px "Inter", sans-serif;
+      position: relative;
+    }
+    ._40-30-25-mm {
+      color: #000000;
+      text-align: left;
+      font: 400 24px "Inter", sans-serif;
+      position: relative;
+    }
+    .hexagon-45-100 {
+      color: #000000;
+      text-align: left;
+      font: 600 28px "Inter", sans-serif;
+      position: relative;
+    }
+    ._45-100-mm {
+      color: #000000;
+      text-align: left;
+      font: 400 24px "Inter", sans-serif;
+      position: relative;
+    }
+    .please-contact-us-for-any-other-shape-request {
+      color: #ffffff;
+      text-align: left;
+      font: 500 14px "Inter", sans-serif;
+      position: absolute;
+      left: -1px;
+      top: 2655px;
+    }
+    .testimony {
+      color: #ffffff;
+      text-align: center;
+      font: 500 34px "Inter", sans-serif;
+      position: absolute;
+      top: 2697px;
+    }
+    .frame-47 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      height: 374px;
+      position: absolute;
+      left: 0px;
+      top: 2763px;
+    }
+    .frame-45 {
+      padding: 0px 0px 0px 25px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+      width: 100%;
+      height: 200px;
+      position: relative;
+      box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    }
+    .ellipse-22 {
+      border-radius: 50%;
+      flex-shrink: 0;
+      width: 100px;
+      height: 100px;
+      position: relative;
+    }
+    .frame-44 {
+      display: flex;
+      flex-direction: column;
+      gap: 25px;
+      align-items: flex-start;
+      justify-content: flex-start;
+      flex-shrink: 0;
+      width: 60%;
+      height: 148px;
+      position: relative;
+    }
+    .mary-kwamboka {
+      color: #ffffff;
+      text-align: left;
+      font: 500 18px "Inter", sans-serif;
+      position: relative;
+    }
+    .they-burn-hotter-and-cleaner-are-cheaper-to-buy-and-much-easier-to-store-and-handle-great-product-find-span2{
+      color: #ffffff;
+      text-align: left;
+      font: 500 16px "Inter", sans-serif;
+      position: relative;
+    }
+    .frame-46 {
+      background: #ffffff;
+      padding: 0px 0px 0px 25px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+      width: 100%;
+      height: 180px;
+      position: relative;
+    }
+    .frame-442 {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      align-items: flex-start;
+      justify-content: flex-start;
+      flex-shrink: 0;
+      width: 60%;
+      height: 180px;
+      position: relative;
+    }
+    .peter-waweru {
+      color: #000000;
+      text-align: left;
+      font: 500 18px "Inter", sans-serif;
+      position: relative;
+    }
+    .this-company-produces-briquettes-made-of-100-waste-sawdust-with-no-added-or-artificia-chemicals-an-excellent-and-efficient-alternative-source-of-heat-sets-a-great-example-of-sustainability-in-kenya-span2{
+      color: #000000;
+      text-align: left;
+      font: 500 16px "Inter", sans-serif;
+      position: relative;
+    }
+    .this-company-produces-briquettes-made-of-100-waste-sawdust-with-no-added-or-artificia-chemicals-an-excellent-and-efficient-alternative-source-of-heat-sets-a-great-example-of-sustainability-in-kenya-span3{
+      color: #000000;
+      text-align: left;
+      font: 500 14px "Inter", sans-serif;
+      position: relative;
+    }
+    .get-in-touch {
+      color: #ffffff;
+      text-align: center;
+      font: 500 34px "Inter", sans-serif;
+      position: absolute;
+      top: 3162px;
+    }
+    .frame-52 {
+      display: flex;
+      flex-direction: column;
+      gap: 45px;
+      align-items: center;
+      justify-content: flex-start;
+      width: 291px;
+      position: relative;
+      top: 2900px;
+      width: 100%;
+    }
+    .frame-51 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+      width: 100%;
+      height: 271px;
+      position: relative;
+      width: 100%;
+    }
+    .frame-48 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      align-self: stretch;
+      flex-shrink: 0;
+      height: 81px;
+      position: relative;
+    }
+    .address {
+      color: #ffffff;
+      text-align: center;
+      font: 700 24px "Inter", sans-serif;
+      position: relative;
+      align-self: stretch;
+    }
+    .lower-bedi-rd-nakuru-kenya {
+      color: #ffffff;
+      text-align: center;
+      font: 500 18px "Inter", sans-serif;
+      position: relative;
+      align-self: stretch;
+    }
+    .frame-49 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      align-self: stretch;
+      flex-shrink: 0;
+      height: 81px;
+      position: relative;
+    }
+    .telephone {
+      color: #ffffff;
+      text-align: center;
+      font: 700 24px "Inter", sans-serif;
+      position: relative;
+      align-self: stretch;
+    }
+    ._0796305577 {
+      color: #ffffff;
+      text-align: center;
+      font: 500 18px "Inter", sans-serif;
+      position: relative;
+      align-self: stretch;
+    }
+    .frame-50 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      align-self: stretch;
+      flex-shrink: 0;
+      height: 81px;
+      position: relative;
+    }
+    .email {
+      color: #ffffff;
+      text-align: center;
+      font: 700 24px "Inter", sans-serif;
+      position: relative;
+      align-self: stretch;
+    }
+    .info-briquette-com {
+      color: #ffffff;
+      text-align: center;
+      font: 500 18px "Inter", sans-serif;
+      position: relative;
+      align-self: stretch;
+    }
+    ._2023-briquette-all-rights-reserved {
+      color: #ffffff;
+      text-align: center;
+      font: 500 16px "Inter", sans-serif;
+      position: absolute;
+      left: 0px;
+      top: 3524px;
+      width: 318px;
+      height: 38px;
+    }
+    .they-burn-hotter-and-cleaner-are-cheaper-to-buy-and-much-easier-to-store-and-handle-great-product-find {
+      color: #ffffff;
+      text-align: left;
+      font: 500 14px "Inter", sans-serif;
+      position: relative;
+      width: 100%;
+      height: 98px;
+    } 
+}
